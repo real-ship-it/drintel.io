@@ -1,0 +1,23 @@
+DrIntel - Sample Compliance Template
+====================================
+
+This is a placeholder file for the requested compliance template.
+In a production environment, this would be a full legal document (PDF or DOCX).
+
+Template ID: [Dynamic ID]
+Date Generated: 2025-11-28
+
+------------------------------------
+HIPAA PRIVACY NOTICE SAMPLE
+------------------------------------
+
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+
+Your Rights
+When it comes to your health information, you have certain rights. This section explains your rights and some of our responsibilities to help you.
+
+Get an electronic or paper copy of your medical record
+- You can ask to see or get an electronic or paper copy of your medical record and other health information we have about you. Ask us how to do this.
+- We will provide a copy or a summary of your health information, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
+
+[...Full legal text would follow...]
